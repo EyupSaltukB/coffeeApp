@@ -5,6 +5,11 @@ multi-screens CoffeeShop Application
 ![](./src/assets/screenshots/simulator1-iPhone15ProMax.png)
 ![](./src/assets/screenshots/simulator2-iPhone15ProMax.png)
 
+# Packages & Libraries
+- @react-navigation
+- nativewind
+- react-native-heroicons
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
